@@ -32,6 +32,7 @@
 
 #include <lcp.hpp>
 #include <unistd.h>
+#include <dna_bwt.hpp>
 #include <dna_bwt_n.hpp>
 
 #include <malloc_count.h>

@@ -149,7 +149,7 @@ endif()
 ## Add bwt2lcp
 FetchContent_Declare(
   bwt2lcp
-  GIT_REPOSITORY https://github.com/nicolaprezza/bwt2lcp
+  GIT_REPOSITORY https://github.com/dove-begleiter/bwt2lcp
 )
 
 FetchContent_GetProperties(bwt2lcp)
